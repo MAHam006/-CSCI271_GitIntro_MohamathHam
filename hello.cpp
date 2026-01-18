@@ -1,5 +1,5 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: Mohamath Ham
+// Name: Mohamath A Ham
 // Section: CSCI 271
 
 #include <iostream>
